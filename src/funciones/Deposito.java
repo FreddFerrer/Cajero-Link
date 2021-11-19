@@ -1,5 +1,4 @@
 package funciones;
-import java.util.Scanner;
 
 public class Deposito extends Opciones{
 
